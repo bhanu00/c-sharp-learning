@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xONGiKVACe3sO00/iQCmf2Rsd8+rb/+YHXepcT2suumW8DmwyFHPUxYeniDlAuGXk7Yb38b6y1/59pVJDdGkVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StringPractice\\StringPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BPratap\\.nuget\\packages\\jetbrains.dottrace.commandlinetools.windows-x64\\2021.3.2\\jetbrains.dottrace.commandlinetools.windows-x64.2021.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.csproj.AssemblyReference.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.AssemblyInfoInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.AssemblyInfo.cs
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\bin\Debug\netcoreapp3.1\StringPractice.exe
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\bin\Debug\netcoreapp3.1\StringPractice.deps.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\bin\Debug\netcoreapp3.1\StringPractice.runtimeconfig.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\bin\Debug\netcoreapp3.1\StringPractice.runtimeconfig.dev.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\bin\Debug\netcoreapp3.1\StringPractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\bin\Debug\netcoreapp3.1\StringPractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\StringPractice\obj\Debug\netcoreapp3.1\StringPractice.genruntimeconfig.cache

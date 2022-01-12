@@ -1,0 +1,14 @@
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.exe
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.deps.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.runtimeconfig.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.runtimeconfig.dev.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.AssemblyInfoInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.AssemblyInfo.cs
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.csproj.CoreCompileInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.genruntimeconfig.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\MyLearningApps\code\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.csproj.AssemblyReference.cache
