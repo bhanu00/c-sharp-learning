@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj": {}
+    "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj": {
+    "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj",
+        "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj",
         "projectName": "QueuePractice",
-        "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj",
+        "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\QueuePractice\\QueuePractice.csproj",
         "packagesPath": "C:\\Users\\BPratap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\QueuePractice\\obj\\",
+        "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\QueuePractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

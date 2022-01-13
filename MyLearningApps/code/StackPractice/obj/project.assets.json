@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StackPractice\\StackPractice.csproj",
+      "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\StackPractice\\StackPractice.csproj",
       "projectName": "StackPractice",
-      "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StackPractice\\StackPractice.csproj",
+      "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\StackPractice\\StackPractice.csproj",
       "packagesPath": "C:\\Users\\BPratap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StackPractice\\obj\\",
+      "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\StackPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

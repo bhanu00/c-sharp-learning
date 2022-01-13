@@ -261,11 +261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StringPractice\\StringPractice.csproj",
+      "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\StringPractice\\StringPractice.csproj",
       "projectName": "StringPractice",
-      "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StringPractice\\StringPractice.csproj",
+      "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\StringPractice\\StringPractice.csproj",
       "packagesPath": "C:\\Users\\BPratap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\StringPractice\\obj\\",
+      "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\StringPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

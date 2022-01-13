@@ -1,0 +1,14 @@
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.exe
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.deps.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.runtimeconfig.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.runtimeconfig.dev.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\bin\Debug\netcoreapp3.1\LinkedListPractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.csproj.AssemblyReference.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.AssemblyInfoInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.AssemblyInfo.cs
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.csproj.CoreCompileInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\LinkedListPractice\obj\Debug\netcoreapp3.1\LinkedListPractice.genruntimeconfig.cache

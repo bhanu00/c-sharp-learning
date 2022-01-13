@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\LinkedListPractice\\LinkedListPractice.csproj",
+      "projectUniqueName": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\LinkedListPractice\\LinkedListPractice.csproj",
       "projectName": "LinkedListPractice",
-      "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\LinkedListPractice\\LinkedListPractice.csproj",
+      "projectPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\LinkedListPractice\\LinkedListPractice.csproj",
       "packagesPath": "C:\\Users\\BPratap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\LinkedListPractice\\obj\\",
+      "outputPath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\LinkedListPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

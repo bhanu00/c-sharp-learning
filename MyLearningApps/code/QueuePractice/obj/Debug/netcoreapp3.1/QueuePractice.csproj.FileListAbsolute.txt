@@ -1,0 +1,14 @@
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.exe
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.deps.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.runtimeconfig.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.runtimeconfig.dev.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.csproj.AssemblyReference.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.AssemblyInfoInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.AssemblyInfo.cs
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.csproj.CoreCompileInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.genruntimeconfig.cache

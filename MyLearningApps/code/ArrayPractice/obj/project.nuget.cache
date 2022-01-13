@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1y16pEg//Ndgsng5aTyLN6O08RMZ/hb+F6PEX1ozGh4BsfMii7ApTVbYhH41jgoM4zZVzaP6zODYCmZ9ktkyPg==",
+  "dgSpecHash": "IWrmlBLWzTsNHEtkx+ZGrwu65eH6Fdh/82EvBSUPhFt8GH6OO7A/hJ34zEiIOOUc+aKzwV/5ThFe4uEXw5GiGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\MyLearningApps\\code\\ArrayPractice\\ArrayPractice.csproj",
+  "projectFilePath": "C:\\Users\\BPratap\\OneDrive - Stryker\\My_Work\\c-sharp-learning\\MyLearningApps\\code\\ArrayPractice\\ArrayPractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BPratap\\.nuget\\packages\\jetbrains.dottrace.commandlinetools.windows-x64\\2021.3.2\\jetbrains.dottrace.commandlinetools.windows-x64.2021.3.2.nupkg.sha512"
   ],
