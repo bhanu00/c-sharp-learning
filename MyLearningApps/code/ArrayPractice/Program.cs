@@ -6,7 +6,31 @@ namespace ArrayPractice
     {
         static void Main(string[] args)
         {
-            DVD.process();
+            // DVD.process();
+
+            ArrayOperations<int> operations = new ArrayOperations<int>();
+            int[] arr = new int[] { 2, 3, 5, 1, 8, 3, 1, 9, 0, 2 };
+            operations.InitializeArray(arr);
+
+            operations.DeleteFromFront();
+            Console.WriteLine("Array Items after Deletion:");
+            operations.Display();
+
+            operations.InsertLast(99);
+            operations.InsertLast(101);
+            Console.WriteLine("Array Items after insertion:");
+            operations.Display();
+
+            operations.DeleteFromIndex(1);
+            Console.WriteLine("Array Items after Deleting from Index:");
+            operations.Display();
+
+            Console.WriteLine("Insertion at index");
+            operations.InsertAtIndex(9,11);
+            operations.InsertAtIndex(1, 12);
+            Console.WriteLine("Array Items after inserting at Index:");
+            operations.Display();
+
             Console.ReadLine();
         }
     }
