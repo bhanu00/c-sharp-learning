@@ -8,13 +8,13 @@ namespace csharp_practice
     {
         public static void Main1()
         {
-            A o = new A();
+            A1 o = new A1();
             o.disp();
             Console.ReadLine();
         }
     }
 
-    class A
+    class A1
     {
         public void disp()
         {

@@ -6,23 +6,28 @@ namespace csharp_practice
 {
     class ChildBaseTest
     {
-        static void Main()
+        static void Main1()
         {
-            Base b = new Base();
-            b.Add();
+            A a = new B();
+            a.method1();
+            a.method2();
 
-            // Child c = new Base(); // error
 
-            Base bc = new Child();
-            bc.Add();
+            //Base b = new Base();
+            //b.Add();
 
-            Console.WriteLine("Most recent override example");
-            Child2 c2 = new Child2();
-            c2.Add();
+            //// Child c = new Base(); // error
 
-            // abstract
-            Console.WriteLine("abstract class example");
-            Child1 ch1 = new Child1();
+            //Base bc = new Child();
+            //bc.Add();
+
+            //Console.WriteLine("Most recent override example");
+            //Child2 c2 = new Child2();
+            //c2.Add();
+
+            //// abstract
+            //Console.WriteLine("abstract class example");
+            //Child1 ch1 = new Child1();
             Console.ReadLine();
         }
     }
@@ -79,6 +84,32 @@ namespace csharp_practice
         public override void Add1()
         {
             Console.WriteLine("abstract method implementation");
+        }
+    }
+
+    public class A
+    {
+        public void method1()
+        {
+            Console.WriteLine("A Method1");
+        }
+
+        public virtual void method2()
+        {
+            Console.WriteLine("A Method2");
+        }
+    }
+
+    public class B : A
+    {
+        public new void method1()
+        {
+            Console.WriteLine("B Method1");
+
+        }
+        public override void method2()
+        {
+            Console.WriteLine("B Method2");
         }
     }
 }

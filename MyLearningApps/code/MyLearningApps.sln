@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackPractice", "StackPract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueuePractice", "QueuePractice\QueuePractice.csproj", "{69F29EC8-2B1E-4F34-9BDF-494337E2C5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListPractice", "LinkedListPractice\LinkedListPractice.csproj", "{7272B545-2D18-4C80-8E96-79284BCD1EDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListPractice", "LinkedListPractice\LinkedListPractice.csproj", "{7272B545-2D18-4C80-8E96-79284BCD1EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreePractice", "TreePractice\TreePractice.csproj", "{E4CB42E6-4945-4A2A-9030-128B351E8863}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7272B545-2D18-4C80-8E96-79284BCD1EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7272B545-2D18-4C80-8E96-79284BCD1EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7272B545-2D18-4C80-8E96-79284BCD1EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CB42E6-4945-4A2A-9030-128B351E8863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CB42E6-4945-4A2A-9030-128B351E8863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CB42E6-4945-4A2A-9030-128B351E8863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CB42E6-4945-4A2A-9030-128B351E8863}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

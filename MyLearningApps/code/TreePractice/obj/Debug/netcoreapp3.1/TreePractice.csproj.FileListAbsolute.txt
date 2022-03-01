@@ -1,0 +1,14 @@
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\bin\Debug\netcoreapp3.1\TreePractice.exe
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\bin\Debug\netcoreapp3.1\TreePractice.deps.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\bin\Debug\netcoreapp3.1\TreePractice.runtimeconfig.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\bin\Debug\netcoreapp3.1\TreePractice.runtimeconfig.dev.json
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\bin\Debug\netcoreapp3.1\TreePractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\bin\Debug\netcoreapp3.1\TreePractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.csproj.AssemblyReference.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.AssemblyInfoInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.AssemblyInfo.cs
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.csproj.CoreCompileInputs.cache
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.dll
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.pdb
+C:\Users\BPratap\OneDrive - Stryker\My_Work\c-sharp-learning\MyLearningApps\code\TreePractice\obj\Debug\netcoreapp3.1\TreePractice.genruntimeconfig.cache
